@@ -11,4 +11,4 @@ export const Header = styled.h1``
 export const Titlle = styled.div`
   padding-top: 20px;
   color: #fff;
-`
+`;
